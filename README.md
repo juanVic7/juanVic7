@@ -77,7 +77,7 @@ Busco evoluir constantemente através de projetos práticos e construção de po
     align="center" 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=juanVic7&show_icons=true&theme=dracula&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=juanVic7&show_icons=true&theme=dracula&cache_seconds=0" 
   />
 
   <img 
