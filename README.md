@@ -10,21 +10,9 @@ Busco evoluir constantemente através de projetos práticos e construção de po
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/juan-victor-142a97239?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-        <img 
-            alt="linkedin" 
-            title="linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juan.v.sntos2003@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Gmail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/juan-victor-142a97239"><img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:juan.v.sntos2003@gmail.com"><img alt="Gmail" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
