@@ -84,6 +84,6 @@ Busco evoluir constantemente através de projetos práticos e construção de po
     align="center" 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanVic7&theme=dracula&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanVic7&theme=dracula&layout=compact&cache_seconds=1800" 
   />
 </p>
