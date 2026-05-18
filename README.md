@@ -77,13 +77,13 @@ Busco evoluir constantemente através de projetos práticos e construção de po
     align="center" 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=juanVic7&show_icons=true&theme=dracula&cache_seconds=0" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanVic7&show_icons=true&theme=tokyonight" 
   />
 
   <img 
     align="center" 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanVic7&theme=dracula&layout=compact&cache_seconds=1800" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanVic7&layout=compact&theme=tokyonight" 
   />
 </p>
